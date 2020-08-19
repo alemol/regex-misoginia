@@ -5,15 +5,15 @@ Voces Misóginas en México
 
 ## Descripción
 
-Los recursos publicados son derivados de un análisis de la incidencia espacio-temporal de las voces misóginas en Twitter durante el periodo de septiembre 2017 a octubre 2018.
+Los recursos publicados son derivados de una investigación acerca de la incidencia espacio-temporal de las voces misóginas en Twitter durante el periodo de septiembre 2017 a octubre 2018.
 
-Con la intención de compilar el léxico misógino, se llevó a cabo una meticulosa selección de términos a partir de más de 5 mil lemas del Diccionario tabú del español de México de Georgina Barraza Carbajal (en proceso, Siglo XXI Editores), el cual reúne todas aquellas voces consideradas como eufemismos de temas "prohibidos" dentro de la sociedad mexicana incluyendo sexualidad, identidad de género y misoginia.
-
-Cada lema fue valorado por dos expertos: un especialista en lexicografía y un especialista en antropología de las violencias; para determinar si un lema en cuestión podría ser considerado misógino. Los especialistas realizaron dicha categorización por separado para no influir en su juicio pero les fue permitido anotar acotaciones que luego fueron resueltas por el equipo. Finalmente, los lemas considerados o resueltos como misóginos fueron filtrados e instanciados para generar la expresión regular de voces misóginas (archivo `voces-misoginas.re`). Por ejemplo, a partir del lema **mujer. ~ de la vida galante**; se desprenden las expresiones: **mujer de la vida galante** y **mujeres de la vida galante**; y de manera análoga para todos los lemas.
+Con la intención de compilar el léxico misógino, se llevó a cabo una meticulosa selección de términos a partir de más de 5 mil lemas valorados por dos expertos: un especialista en lexicografía y un especialista en antropología de las violencias; para determinar si un lema en cuestión podría ser considerado misógino. Los especialistas realizaron dicha categorización por separado para no influir en su juicio pero les fue permitido anotar acotaciones que luego fueron resueltas por el equipo. Finalmente, los lemas considerados o resueltos como misóginos fueron filtrados e instanciados para generar la expresión regular de voces misóginas (archivo `voces-misoginas.re`). Por ejemplo, a partir del lema **mujer. ~ de la vida galante**; se desprenden las expresiones: **mujer de la vida galante** y **mujeres de la vida galante**; y de manera análoga para todos los lemas.
 
 Los resultados asociados a estos recursos pueden consultarse en:
 
-    > Molina-Villegas, A. (en proceso 2021). La incidencia de las voces misóginas sobre el espacio digital en México. En A. E. Pérez Barajas, A. C. Arellano Ceballos (coord.), _Jóvenes, plataformas digitales y lenguajes: diversidad lingüística, discursos e identidades_ (pp. XX-XX). México: Elementum.
+
+**Molina-Villegas, A. (en proceso 2021). La incidencia de las voces misóginas sobre el espacio digital en México. En A. E. Pérez Barajas, A. C. Arellano Ceballos (coord.), _Jóvenes, plataformas digitales y lenguajes: diversidad lingüística, discursos e identidades_ (pp. XX-XX). México: Elementum.**
+
 
 ## Voces Misóginas en México
 
