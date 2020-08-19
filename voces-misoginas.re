@@ -212,7 +212,7 @@ pobre diabla\b|\b
 promiscua\b|\b
 prosti\b|\b
 prostiputa\b|\b
-puerca	\b|\b
+puerca\b|\b
 puta de congal\b|\b
 puta\b|\b
 putona\b|\b
