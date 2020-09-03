@@ -1,4 +1,4 @@
-# regex-misoginia
+# voces-misoginas
 
 Voces Misóginas en México
 
@@ -287,15 +287,13 @@ Para hacer uso de la Expresión Regular de Voces Misóginas en México se recomi
 
 ## Autor
 
-**Alejandro Molina-Villegas**
+**Alejandro Molina Villegas**
 
 * [dblp](https://dblp.uni-trier.de/pers/hd/m/Molina=Villegas:Alejandro)
 * [orcid](https://orcid.org/0000-0001-9398-8844)
 
 
 ## Licencia Atribución-SinDerivadas 4.0 Internacional
-
-![](https://licensebuttons.net/l/by-nd/3.0/88x31.png)
 
 
 LOS RECURSOS DE ESTE REPOSITORIO SE DISTRIBUYEN BAJO LOS TÉRMINOS Y CONDICIONES DE LA LICENCIA Creative Commons Atribución/Reconocimiento-SinDerivados 4.0 Licencia Pública Internacional — CC BY-ND 4.0. (ver 'LICENSE.md')
@@ -305,9 +303,11 @@ Usted es libre de:
 Compartir — copiar y redistribuir el material en cualquier medio o formato
 para cualquier propósito, incluso comercialmente. Bajo los siguientes términos:
 
-	- Atribución — Usted debe dar crédito de manera adecuada (citar);
+- Atribución — Usted debe dar crédito de manera adecuada (citar);
 
-	- SinDerivadas — Si remezcla, transforma o crea a partir del material, no podrá distribuir el material modificado.
+- SinDerivadas — Si remezcla, transforma o crea a partir del material, no podrá distribuir el material modificado.
 
 ___
+
+![](https://licensebuttons.net/l/by-nd/3.0/88x31.png)
 
