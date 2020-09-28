@@ -1,17 +1,16 @@
 # voces-misoginas
 
-Voces Misóginas en México
-
 
 ## Descripción
 
 
 Recursos derivados de un análisis de la incidencia espacio-temporal de las voces misóginas en Twitter durante el periodo de septiembre 2017 a octubre 2018 en México. Los resultados asociados a estos recursos pueden consultarse en:
 
-
 **Molina-Villegas, A. (en proceso 2021). La incidencia de las voces misóginas sobre el espacio digital en México. En A. E. Pérez Barajas, A. C. Arellano Ceballos (coord.), _Jóvenes, plataformas digitales y lenguajes: diversidad lingüística, discursos e identidades_. México: Elementum.**
 
-## Tablas de n-gramas y frecuencias elaborados a partir de muestra representativa con 17 mil 666 tuits misóginos georreferenciados provenientes de todo el territorio mexicano.
+## N-gramas
+
+Tabla de 1-gramas y sus frecuencias elaborados a partir de muestra representativa con 17 mil 666 tuits misóginos georreferenciados provenientes de todo el territorio mexicano.
 
 |Unigrama|Frecuencia|
 |----------|----------|
