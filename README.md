@@ -14,7 +14,7 @@ Recursos derivados de un análisis de la incidencia espacio-temporal de las voce
 ## Tablas de n-gramas y frecuencias elaborados a partir de muestra representativa con 17 mil 666 tuits misóginos georreferenciados provenientes de todo el territorio mexicano.
 
 |Unigrama|Frecuencia|
-|----------||----------|
+|----------|----------|
 |pendeja|4852|
 |perra|3670|
 |loca|2338|
