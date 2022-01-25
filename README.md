@@ -6,7 +6,7 @@
 
 Recursos derivados de un análisis de la incidencia espacio-temporal de las voces misóginas en Twitter durante el periodo de septiembre 2017 a octubre 2018 en México. Los resultados asociados a estos recursos pueden consultarse en:
 
-**Molina-Villegas, A. (en proceso 2021). La incidencia de las voces misóginas sobre el espacio digital en México. En A. E. Pérez Barajas, A. C. Arellano Ceballos (coord.), _Jóvenes, plataformas digitales y lenguajes: diversidad lingüística, discursos e identidades_. México: Elementum.**
+**Molina-Villegas, A. (en proceso 2022). La incidencia de las voces misóginas sobre el espacio digital en México. En A. E. Pérez Barajas, A. C. Arellano Ceballos (coord.), _Jóvenes, plataformas digitales y lenguajes: diversidad lingüística, discursos e identidades_. Zapopan, Jal. México: Página seis.**
 
 ## N-gramas
 
