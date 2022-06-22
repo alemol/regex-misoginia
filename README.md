@@ -12,7 +12,7 @@ Recursos derivados de un análisis de la incidencia espacio-temporal de las voce
 
 ![Tasa de tweets misóginos por entidad federativa (septiembre 2017 - septiembre 2018)](https://github.com/alemol/voces-misoginas/blob/ce0a0a4169b688611ce480e9542eee8e3c8884de/mapas/Mapa%201%20Tasa%20de%20tweets%20misoginos%20por%20entidad.png)
 
-Ver el directorio mapas para acceder a los tres mapas de la investigación.
+Ver el directorio [mapas](mapas) para acceder a los mapas de la investigación.
 
 ## N-gramas
 
