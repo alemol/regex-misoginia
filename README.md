@@ -14,6 +14,8 @@ Recursos derivados de un análisis de la incidencia espacio-temporal de las voce
 
 Ver el directorio [mapas](mapas) para acceder a los mapas de la investigación.
 
+https://github.com/alemol/voces-misoginas/blob/master/mapas
+
 ## N-gramas
 
 Tabla de 1-gramas y sus frecuencias elaborados a partir de muestra representativa con 17 mil 666 tuits misóginos georreferenciados provenientes de todo el territorio mexicano.
