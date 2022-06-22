@@ -8,6 +8,10 @@ Recursos derivados de un análisis de la incidencia espacio-temporal de las voce
 
 **Molina-Villegas, A. (2022). La incidencia de las voces misóginas sobre el espacio digital en México. En A. E. Pérez Barajas, A. C. Arellano Ceballos (coord.), _Jóvenes, plataformas digitales y lenguajes: diversidad lingüística, discursos e identidades_. Zapopan, Jal. México: Página seis.**
 
+## Mapas
+
+![Tasa de tweets misóginos por entidad federativa (septiembre 2017 - septiembre 2018).](mapas/mapa1.png)
+
 ## N-gramas
 
 Tabla de 1-gramas y sus frecuencias elaborados a partir de muestra representativa con 17 mil 666 tuits misóginos georreferenciados provenientes de todo el territorio mexicano.
